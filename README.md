@@ -20,6 +20,10 @@ Coming back to the examples, this would be the approach:a
 
 
 And here you have a couple of screen shots of the first use cases:
+* ![screenshot] (https://github.com/psaiz/kibana-relational-filter/blob/master/images/before.png "Before applying the filter. Note the two relational visualizations on the left")
+* ![screenshot] (https://github.com/psaiz/kibana-relational-filter/blob/master/images/after.png "After selecting one country")
+
+
 
 
 
